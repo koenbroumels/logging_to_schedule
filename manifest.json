@@ -1,0 +1,10 @@
+{
+  "domain": "logging_to_schedule",
+  "name": "Logging to Schedule",
+  "version": "0.0.1",
+  "documentation": "https://github.com/koenbroumels/logging_to_schedule",
+  "dependencies": ["recorder"],
+  "requirements": [],
+  "codeowners": ["@koenbroumels"],
+  "iot_class": "local_polling"
+}
